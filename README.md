@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying at IACAS.
+- 🔭 I’m currently studying at CASIA.
 - 🌱 I’m currently learning on Robotics and Operation System.
 - 💬 Ask me about Machine Learning, Signal Processing, Robotics, Electrical Impedance Tomography(EIT), C/C++, Embedded System
 - 📫 How to reach me: liuxd_sheldon@163.com
